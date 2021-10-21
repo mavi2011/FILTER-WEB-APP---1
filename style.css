@@ -1,5 +1,4 @@
 body{
-    background-image: mustache.jpeg;
     text-align: center;
 }
 
@@ -16,10 +15,7 @@ h3{
     font-size: 25px !important;
 }
 
-
-
-canvas
-{
+canvas{
     animation-name: example;
     animation-duration: 4s;
     animation-iteration-count: infinite;
